@@ -1,2 +1,1 @@
-# DeepLearning-Lab-Practicals
-This Repository consists of all the practicals performed in BTech Data Science third year.
+# This repository contains lab work done in Deep Learning Practicals.
